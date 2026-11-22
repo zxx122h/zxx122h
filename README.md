@@ -13,8 +13,18 @@ I am an M.S. student in Cyberspace Security at Guizhou Normal University. My res
 
 ## Education
 
-- **Guizhou Normal University** · M.S. student in Cyberspace Security · 2025–Present
-- **Nanjing Tech University** · B.S. in Computer Science and Technology · 2020–2024
+<table aria-label="Education">
+  <tbody>
+    <tr>
+      <td align="center"><img src="assets/guizhou-normal-university.png" width="44" height="44" alt=""></td>
+      <td><strong>Guizhou Normal University</strong><br>M.S. student in Cyberspace Security · 2025–Present</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/nanjing-tech-university.png" width="44" height="44" alt=""></td>
+      <td><strong>Nanjing Tech University</strong><br>B.S. in Computer Science and Technology · 2020–2024</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Selected Projects
 
