@@ -16,7 +16,7 @@ I’m an M.S. student in Cyberspace Security at Guizhou Normal University. My in
 First-Class Scholarship, 2025–2026<br>
 <span lang="zh-CN">2025–2026 学年一等奖学金</span>
 
-*A juruo from a non-elite university, working on my Ph.D. applications.*
+*“A juruo from a non-elite university, working on my Ph.D. applications.”*
 
 ### <img src="assets/nanjing-tech-university.png" width="32" height="32" alt=""> Nanjing Tech University · <span lang="zh-CN">南京工业大学</span>
 
@@ -29,7 +29,7 @@ Special-Category Scholarship and annual recognition for outstanding individual c
 CET-4: 573 · CET-6: 445 · Spoken English: Grade B<br>
 <span lang="zh-CN">英语四级 573 · 英语六级 445 · 口语 B</span>
 
-*Fingers crossed that my alma mater makes the Double First-Class list.*
+*“Fingers crossed that my alma mater makes the Double First-Class list.”*
 
 ## Selected Projects / 项目经历
 
