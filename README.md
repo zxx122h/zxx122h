@@ -16,7 +16,7 @@ I’m an M.S. student in Cyberspace Security at Guizhou Normal University. My in
 First-Class Scholarship, 2025–2026<br>
 <span lang="zh-CN">2025–2026 学年一等奖学金</span>
 
-*“Just a juruo from a non–Double First-Class university, working toward a Ph.D.”*
+*“Just a JURUO from a ‘Normal’ university, working toward a Ph.D.”*
 
 ### <img src="assets/nanjing-tech-university.png" width="32" height="32" alt=""> Nanjing Tech University · <span lang="zh-CN">南京工业大学</span>
 
