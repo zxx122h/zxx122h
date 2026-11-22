@@ -4,7 +4,7 @@ I’m an M.S. student in Cyberspace Security at Guizhou Normal University. My in
 
 <p lang="zh-CN">我目前在贵州师范大学攻读网络空间安全硕士学位，关注人工智能安全、智能体安全、软件安全与可信系统。</p>
 
-[Academic homepage](https://zxx122h.github.io/zxx122h/) · [GitHub profile](https://github.com/zxx122h)
+[Academic homepage](https://zxx122h.github.io/zxx122h/)
 
 ## Education / 教育经历
 
@@ -16,7 +16,7 @@ I’m an M.S. student in Cyberspace Security at Guizhou Normal University. My in
 First-Class Scholarship, 2025–2026<br>
 <span lang="zh-CN">2025–2026 学年一等奖学金</span>
 
-*“A juruo from a non-elite university, working on my Ph.D. applications.”*
+*“Just a juruo from a non–Double First-Class university, working toward a Ph.D.”*
 
 ### <img src="assets/nanjing-tech-university.png" width="32" height="32" alt=""> Nanjing Tech University · <span lang="zh-CN">南京工业大学</span>
 
@@ -29,7 +29,7 @@ Special-Category Scholarship and annual recognition for outstanding individual c
 CET-4: 573 · CET-6: 445 · Spoken English: Grade B<br>
 <span lang="zh-CN">英语四级 573 · 英语六级 445 · 口语 B</span>
 
-*“Fingers crossed that my alma mater makes the Double First-Class list.”*
+*“Fingers crossed that my alma mater joins China's Double First-Class initiative someday.”*
 
 ## Selected Projects / 项目经历
 
@@ -40,9 +40,10 @@ Contributed to cryptographic engineering and trustworthy data processing for tra
 
 ![RoadShield overview showing the transportation setting, credential protection and verification, and a dashboard.](docs/assets/roadshield-overview.png)
 
-### Multi-Agent Collaborative Monitoring and Incident Response Platform Based on Multi-Source Security Data
+### Multi-Agent Security Investigation Platform
 
-<p lang="zh-CN"><strong>基于多源安全数据的多智能体协同监测与应急响应平台</strong></p>
+*Multi-Agent Collaborative Monitoring and Incident Response Platform Based on Multi-Source Security Data*<br>
+<span lang="zh-CN">基于多源安全数据的多智能体协同监测与应急响应平台</span>
 
 Helped develop an evidence-driven investigation workflow, including case state management and agent orchestration.<br>
 <span lang="zh-CN">参与平台的证据驱动调查流程开发，包括案件状态管理与智能体编排。</span>
